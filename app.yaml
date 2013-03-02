@@ -1,4 +1,4 @@
-application: CityWatchers
+application: city-watchers
 version: dev
 runtime: python27
 api_version: 1
