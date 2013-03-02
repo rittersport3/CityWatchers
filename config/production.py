@@ -29,8 +29,8 @@ config = {
 # disable i18n if locales array is empty or None
 'locales' : ['en_US', 'es_ES', 'it_IT', 'zh_CN', 'id_ID', 'fr_FR', 'de_DE', 'ru_RU', 'pt_BR', 'cs_CZ'],
 
-'contact_sender' : "dev.citywatchers@gmail.com",
-'contact_recipient' : "dev.citywatchers@gmail.com",
+'contact_sender' : "city-watchers@city-watchers.appspotmail.com",
+'contact_recipient' : "city-watchers@city-watchers.appspotmail.com",
 
 # Password AES Encryption Parameters
 'aes_key' : "12_24_32_BYTES_KEY_FOR_PASSWORDS",
